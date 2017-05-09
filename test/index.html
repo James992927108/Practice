@@ -1,0 +1,27 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>TypeScript HTML App</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+    <script src="app.ts"></script>
+
+<body>
+    <h1>homework</h1>
+    <div>
+        會員類別 : <input name="member" type="radio" id="vip" onchange="test1('vip')" /> VIP
+        <input name="member" type="radio" id="normal" onchange="test1('normal')" /> Normal
+        <input type="text" id="ForGetMember" style="display:none">
+    </div>
+    <div>
+        購買件數 : <input type="text" id="qty" />
+        <input type="button" id="send" value="Calculate" onclick="test()" />
+    </div>
+    <div>
+        總價 : <input type="text" id="price">
+    </div>
+    <div>
+        最終優惠價格 :　<input type="text" id="total">
+    </div>
+</body>
+</head>
+</html>
