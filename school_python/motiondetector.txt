@@ -1,0 +1,38 @@
+    funtion main(image left ,image right)
+        while (1)
+            if Left is None or Right is None:
+                continue
+            result = stitch the images together(left ,right)
+
+            if result is None:
+                print("[INFO] homography could not be computed")
+                continue
+                
+            gray = Color_to_gray(result)
+            gray_after_Gauss = use_GaussianBlur(gray)
+            #移動偵測
+            #avg,accumWeight 不清楚這邊該怎麼寫
+            accumulate_Weighted(gray_after_Gauss,avg,accumWeight)  
+            #
+
+            Delta image =  compute the pixel-wise differences between the current frame(gray_after_Gauss) and running average (avg)
+
+            thresh = threshold the delta image(Delta image)
+
+            Contours = find contours in the thresholded image(thresh)
+
+
+
+
+
+
+
+
+
+
+
+            # otherwise, accumulate the weighted average between
+            # the current frame and the previous frames, then compute
+            # the pixel-wise differences between the current frame
+            # and running average
+            locs = creat_background_modle(gray_after_Gauss)
