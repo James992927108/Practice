@@ -47,32 +47,20 @@
     <Reference Include="NSubstitute, Version=2.0.3.0, Culture=neutral, PublicKeyToken=92dd2e9066daa5ca, processorArchitecture=MSIL">
       <HintPath>..\packages\NSubstitute.2.0.3\lib\net45\NSubstitute.dll</HintPath>
     </Reference>
-    <Reference Include="nunit.framework, Version=3.6.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
-      <HintPath>..\packages\NUnit.3.6.1\lib\net45\nunit.framework.dll</HintPath>
+    <Reference Include="nunit.framework, Version=3.7.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.3.7.1\lib\net45\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="CalculatorUnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DirectDependency\DirectDependency.csproj">
-      <Project>{bd825fca-910f-4840-a001-b595c843413a}</Project>
-      <Name>DirectDependency</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TestIntoduction\TestIntoduction.csproj">
-      <Project>{4e9cc822-20bc-40b7-9dfd-85153e809f30}</Project>
-      <Name>TestIntoduction</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Time\TimeFunction.csproj">
-      <Project>{09e6e6dc-b6fd-43c7-ae2c-bb0c941553d8}</Project>
-      <Name>TimeFunction</Name>
-    </ProjectReference>
     <ProjectReference Include="..\UnitTestClass\Calculator.csproj">
       <Project>{24b01c98-243d-4a5b-a0e7-4adb37327265}</Project>
       <Name>Calculator</Name>
