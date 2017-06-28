@@ -1,0 +1,162 @@
+html
+  body
+    .mousedownicon
+    .words
+      //#page_about
+        h1 {{title}}
+        h4 {{innertext}}
+      .page_index
+        img.logo.getlogo(src="http://complexfestival.info/logo.png")
+        h4 Complex Festival
+        h3#mymass 0
+        h5 <br>我們都是恆星 /&nbsp;燃盡生命貪婪膨脹的存在
+      
+        h6#alarmtext.ftext 你創立了一個新的社團
+      //#enterbtn.enterbtn 進入
+    
+      
+    .blackmask#mask
+    
+    
+    .page2
+      .backcircle 
+        .linecircle1
+          .planet
+        .linecircle2
+      
+      h1.title 複雜生活節 緣起
+      p.intro 
+        
+        span.i1 一個月前，一群在網路上互有認識的各地團隊忽然想試試看聚在一起交流，於是有了複雜生活節。<br><br>
+        span.i2 這群人有些共同關鍵字：八年級、連續工作狂、反覆實踐、自稱系邊、帶給朋友們無窮希望...。不管怎麼說，這群八年級生聚在一起實在太狂了！現在市面上有太多以「成功」為名的論壇，但是我們認為，論壇有更多可能性，特別是當我們年紀相仿，一定有更多隱藏版功能可以解鎖，於是漸漸長出了這樣一個說做就做的複雜生活節。我們無法扮演完美理型，這是一個以「成長」為名的祭典。<br><br>
+        span.i3 為期兩天的複雜生活節，無法讓你一勞永逸，解決一切問題，反而讓你在有限的人生裡，有機會迸發更多美好可能，原本多元繽紛的生活，變得更加難以想像。<br><br>&nbsp;&nbsp;&nbsp;更加複雜。<br><br>而這裡，將會是碰撞的最佳空間。<br><br>
+        span.i4 黃豆泥、許皓甯
+        
+    
+    .page3
+      h1.title 活動介紹
+      .world
+        .c1
+          .locate
+            .hide.planet
+            .actbox.act1
+              h3 好想說的秘密
+              h2 社團告解室
+              h4 人在社團中，誰能不出包。<br>來來來，我們出包人慈悲為懷，5/28<br>幫你變聲不露臉<br>我們夜晚野台見
+        .c2
+          .locate
+            .square.planet
+            .actbox.act2
+              h3 獵人才天堂
+              h2 地下職業工會
+              h4 想做事沒事做，<br>或不太會做事被逼著做嗎？<br>不管是高手佛心帶學徒<br>還是新手找人推副本<br>職。業。工。會<br>都是你過勞加班的最佳選擇Ｒ！！！
+        .c3
+          .locate
+            .tri.planet
+            .actbox.act3
+              h3 「那時世界還很新，需要用手去指。」
+              h2 閃電秀
+              h4 複雜生活節當天<br>請幫我們盯緊每一位與會者<br>如果發現他應上台而未上台<br>請私訊通報小編<br>我們會派出講師獵犬<br>抓他上台，分享他的特異功能@_@
+        .c4
+          .locate
+            .five.planet
+            .actbox.act4
+              h3 一組講者聽不夠，那就......
+              h2 對談式論壇
+              h4 那就一次聽兩團吧<br>我們設置了六成以上的論壇<br>從單團演講，升級為同質雙團論壇<br>讓聽眾能從兩種角度，來探索一個方向
+    .page4
+      //h1.title 複雜生活節拉霸
+      .mainplayrow
+        .leftbox.hide
+          .leftline
+          .leftline2
+        .box1.box.transdelay300.hide
+          .tag 有一天
+          .posbox
+            ul#game_li1.transdelay300
+              li 上病理課
+              li 做好玩的事情
+              li 看到了蟾蜍山
+              li 看了線上課程
+              li 上了心理學
+          .control
+            .leftpart
+              h4.stitle0 複雜生活產生器
+              h2.stitle 創造我的複雜生活
+              h4.stitle2 CREATE MY COMPLEX LIFE
+              .btnshare 分享
+            .rightpart
+              .outbox
+                .inbox
+                  .showpart
+                    .bar
+                      .ball
+        .box2.box.transdelay500.hide
+          .tag 竟然
+          .posbox
+            ul#game_li2.transdelay500
+              li 出了狀況
+              li 看到天空
+              li 覺得一頭霧水
+              li 受到校方阻撓
+              li 覺得世界是場遊戲
+        .box3.box.transdelay700.hide
+          .tag 然後就
+          .posbox
+            ul#game_li3.transdelay700
+              li 創業出去惹
+              li 辦了雜誌
+              li 成立自己平台
+              li 改造了設計風格
+              li 成立的Inpsy
+              li 然後就休學惹
+              li 成立網頁設計工作室
+              li 決定發起慢媒體
+              li 在hahow修了十堂課
+              
+           
+    .page5#teampage
+       .titlebox
+       h1.title 參與團隊
+         .bottomline
+       .contentblock
+         .leftpanel
+
+           .cursor
+           
+         .rightpanel
+           ul#teamlist
+             li.teambox(v-for="team in teamdatas" style="transition-delay: {{0.04*$index}}s") 
+               .logo
+                 img(src="{{team.imgurl}}")
+               .info
+                 .teamtitle # {{team.num}}&nbsp;{{team.name}}
+                   span.pname &nbsp;| {{team.person}}
+                 .moreinfo {{team.describe}}
+          
+    .page6
+      
+      .persons_big_pic
+        a(href="https://www.facebook.com/ComplexFestival/posts/1070104589723423" target="_blank")
+          img.allp(src="https://i.imgur.com/kbNi4oE.png")
+      .right6
+        .titles6
+          h1.bignum 32
+          h1.title 參與講者
+          .greenbar
+          h3.dis 共計32名精選講者分享
+      //ul#personpics
+        li(v-for="url in urls")
+          img(src="{{url}}")
+       
+    
+    .page8
+      img(src="http://complexfestival.info/time0.png")
+    .page9
+      img(src="http://complexfestival.info/time1.png")
+    .page10
+      img.logo(src="http://complexfestival.info/logo.png")
+      .earth
+    canvas(width="500" height="500")#myCanvas
+      
+      
