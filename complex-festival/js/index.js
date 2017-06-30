@@ -932,8 +932,6 @@ var teamdatas = {
         }
 
     ]
-
-
 };
 
 var vm1 = new Vue({
