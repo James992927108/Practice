@@ -1,0 +1,14 @@
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.deps.json
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.json
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.dev.json
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.AssemblyInfo.cs
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.dll
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.pdb
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\bin\Debug\netcoreapp1.1\Codewars_Bit_Counting.dll
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\bin\Debug\netcoreapp1.1\Codewars_Bit_Counting.pdb
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.dll
+E:\GitHub\Codewars_Bit_Counting\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.pdb

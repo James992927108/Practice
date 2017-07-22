@@ -1,0 +1,9 @@
+E:\GitHub\Codewars_Bit_Counting\Codewars_Bit_Counting\bin\Debug\netcoreapp1.1\Codewars_Bit_Counting.deps.json
+E:\GitHub\Codewars_Bit_Counting\Codewars_Bit_Counting\bin\Debug\netcoreapp1.1\Codewars_Bit_Counting.runtimeconfig.json
+E:\GitHub\Codewars_Bit_Counting\Codewars_Bit_Counting\bin\Debug\netcoreapp1.1\Codewars_Bit_Counting.runtimeconfig.dev.json
+E:\GitHub\Codewars_Bit_Counting\Codewars_Bit_Counting\bin\Debug\netcoreapp1.1\Codewars_Bit_Counting.dll
+E:\GitHub\Codewars_Bit_Counting\Codewars_Bit_Counting\bin\Debug\netcoreapp1.1\Codewars_Bit_Counting.pdb
+E:\GitHub\Codewars_Bit_Counting\Codewars_Bit_Counting\obj\Debug\netcoreapp1.1\Codewars_Bit_Counting.csprojResolveAssemblyReference.cache
+E:\GitHub\Codewars_Bit_Counting\Codewars_Bit_Counting\obj\Debug\netcoreapp1.1\Codewars_Bit_Counting.AssemblyInfo.cs
+E:\GitHub\Codewars_Bit_Counting\Codewars_Bit_Counting\obj\Debug\netcoreapp1.1\Codewars_Bit_Counting.dll
+E:\GitHub\Codewars_Bit_Counting\Codewars_Bit_Counting\obj\Debug\netcoreapp1.1\Codewars_Bit_Counting.pdb
