@@ -1,0 +1,12 @@
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order_Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order_Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order_Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order_Test\bin\Debug\netcoreapp1.1\Descending_Order_Test.deps.json
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order_Test\bin\Debug\netcoreapp1.1\Descending_Order_Test.runtimeconfig.json
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order_Test\bin\Debug\netcoreapp1.1\Descending_Order_Test.runtimeconfig.dev.json
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order_Test\bin\Debug\netcoreapp1.1\Descending_Order_Test.dll
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order_Test\bin\Debug\netcoreapp1.1\Descending_Order_Test.pdb
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order_Test\obj\Debug\netcoreapp1.1\Descending_Order_Test.csprojResolveAssemblyReference.cache
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order_Test\obj\Debug\netcoreapp1.1\Descending_Order_Test.AssemblyInfo.cs
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order_Test\obj\Debug\netcoreapp1.1\Descending_Order_Test.dll
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order_Test\obj\Debug\netcoreapp1.1\Descending_Order_Test.pdb

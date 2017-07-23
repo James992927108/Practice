@@ -8510,10 +8510,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\Codewars_Bit_Counting\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectUniqueName": "E:\\GitHub\\Codewars_Practice\\Codewars_Bit_Counting\\UnitTestProject1\\UnitTestProject1.csproj",
       "projectName": "UnitTestProject1",
-      "projectPath": "E:\\GitHub\\Codewars_Bit_Counting\\UnitTestProject1\\UnitTestProject1.csproj",
-      "outputPath": "E:\\GitHub\\Codewars_Bit_Counting\\UnitTestProject1\\obj\\",
+      "projectPath": "E:\\GitHub\\Codewars_Practice\\Codewars_Bit_Counting\\UnitTestProject1\\UnitTestProject1.csproj",
+      "outputPath": "E:\\GitHub\\Codewars_Practice\\Codewars_Bit_Counting\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8521,8 +8521,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "E:\\GitHub\\Codewars_Bit_Counting\\Codewars_Bit_Counting\\Codewars_Bit_Counting.csproj": {
-              "projectPath": "E:\\GitHub\\Codewars_Bit_Counting\\Codewars_Bit_Counting\\Codewars_Bit_Counting.csproj"
+            "E:\\GitHub\\Codewars_Practice\\Codewars_Bit_Counting\\Codewars_Bit_Counting\\Codewars_Bit_Counting.csproj": {
+              "projectPath": "E:\\GitHub\\Codewars_Practice\\Codewars_Bit_Counting\\Codewars_Bit_Counting\\Codewars_Bit_Counting.csproj"
             }
           }
         }

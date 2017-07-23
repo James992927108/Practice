@@ -1,0 +1,9 @@
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order\bin\Debug\netcoreapp1.1\Descending_Order.deps.json
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order\bin\Debug\netcoreapp1.1\Descending_Order.runtimeconfig.json
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order\bin\Debug\netcoreapp1.1\Descending_Order.runtimeconfig.dev.json
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order\bin\Debug\netcoreapp1.1\Descending_Order.dll
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order\bin\Debug\netcoreapp1.1\Descending_Order.pdb
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order\obj\Debug\netcoreapp1.1\Descending_Order.AssemblyInfo.cs
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order\obj\Debug\netcoreapp1.1\Descending_Order.dll
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order\obj\Debug\netcoreapp1.1\Descending_Order.pdb
+E:\GitHub\Codewars_Practice\Descending_Order\Descending_Order\obj\Debug\netcoreapp1.1\Descending_Order.csprojResolveAssemblyReference.cache

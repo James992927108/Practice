@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\Codewars_Bit_Counting\\Codewars_Bit_Counting\\Codewars_Bit_Counting.csproj",
+      "projectUniqueName": "E:\\GitHub\\Codewars_Practice\\Codewars_Bit_Counting\\Codewars_Bit_Counting\\Codewars_Bit_Counting.csproj",
       "projectName": "Codewars_Bit_Counting",
-      "projectPath": "E:\\GitHub\\Codewars_Bit_Counting\\Codewars_Bit_Counting\\Codewars_Bit_Counting.csproj",
-      "outputPath": "E:\\GitHub\\Codewars_Bit_Counting\\Codewars_Bit_Counting\\obj\\",
+      "projectPath": "E:\\GitHub\\Codewars_Practice\\Codewars_Bit_Counting\\Codewars_Bit_Counting\\Codewars_Bit_Counting.csproj",
+      "outputPath": "E:\\GitHub\\Codewars_Practice\\Codewars_Bit_Counting\\Codewars_Bit_Counting\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
