@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Codewars_Sum_of_the_first_nth_term_of_Series
+namespace Sum_of_the_first_nth_term_of_Series
 {
-    class Program
+    class Sum_of_the_first_nth_term_of_Series
     {
         static void Main(string[] args)
         {

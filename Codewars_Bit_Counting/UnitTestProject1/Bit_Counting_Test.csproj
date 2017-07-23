@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Codewars_Bit_Counting\Codewars_Bit_Counting.csproj" />
+    <ProjectReference Include="..\Codewars_Bit_Counting\Bit_Counting.csproj" />
   </ItemGroup>
 
   <ItemGroup>

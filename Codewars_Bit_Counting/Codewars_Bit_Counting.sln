@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewars_Bit_Counting", "Codewars_Bit_Counting\Codewars_Bit_Counting.csproj", "{61E058A1-E967-47D5-9174-C22FF48245A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bit_Counting", "Codewars_Bit_Counting\Bit_Counting.csproj", "{61E058A1-E967-47D5-9174-C22FF48245A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{DF79E738-40B1-462D-9701-30793D6BE496}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bit_Counting_Test", "UnitTestProject1\Bit_Counting_Test.csproj", "{DF79E738-40B1-462D-9701-30793D6BE496}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

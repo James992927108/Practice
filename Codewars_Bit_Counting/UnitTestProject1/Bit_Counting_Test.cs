@@ -1,9 +1,9 @@
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-namespace UnitTestProject1
+namespace Bit_Counting_Test
 {
     [TestClass]
-    public class UnitTest1
+    public class Bit_Counting_Test
     {
         private static void ActualAndExpect(int input_actual, int input_expect)
         {

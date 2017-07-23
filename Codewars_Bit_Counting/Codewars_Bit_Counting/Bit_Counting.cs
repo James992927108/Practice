@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Codewars_Bit_Counting
+namespace Bit_Counting
 {
-    class Program
+    class Bit_Counting
     {
         static void Main(string[] args)
         {
