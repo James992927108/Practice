@@ -1,0 +1,9 @@
+C:\Users\antony.teng68\documents\visual studio 2017\Projects\Find The Parity Outlier\Find The Parity Outlier\bin\Debug\netcoreapp1.1\Find The Parity Outlier.deps.json
+C:\Users\antony.teng68\documents\visual studio 2017\Projects\Find The Parity Outlier\Find The Parity Outlier\bin\Debug\netcoreapp1.1\Find The Parity Outlier.runtimeconfig.json
+C:\Users\antony.teng68\documents\visual studio 2017\Projects\Find The Parity Outlier\Find The Parity Outlier\bin\Debug\netcoreapp1.1\Find The Parity Outlier.runtimeconfig.dev.json
+C:\Users\antony.teng68\documents\visual studio 2017\Projects\Find The Parity Outlier\Find The Parity Outlier\bin\Debug\netcoreapp1.1\Find The Parity Outlier.dll
+C:\Users\antony.teng68\documents\visual studio 2017\Projects\Find The Parity Outlier\Find The Parity Outlier\bin\Debug\netcoreapp1.1\Find The Parity Outlier.pdb
+C:\Users\antony.teng68\documents\visual studio 2017\Projects\Find The Parity Outlier\Find The Parity Outlier\obj\Debug\netcoreapp1.1\Find The Parity Outlier.csprojResolveAssemblyReference.cache
+C:\Users\antony.teng68\documents\visual studio 2017\Projects\Find The Parity Outlier\Find The Parity Outlier\obj\Debug\netcoreapp1.1\Find The Parity Outlier.AssemblyInfo.cs
+C:\Users\antony.teng68\documents\visual studio 2017\Projects\Find The Parity Outlier\Find The Parity Outlier\obj\Debug\netcoreapp1.1\Find The Parity Outlier.dll
+C:\Users\antony.teng68\documents\visual studio 2017\Projects\Find The Parity Outlier\Find The Parity Outlier\obj\Debug\netcoreapp1.1\Find The Parity Outlier.pdb
