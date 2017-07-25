@@ -1,0 +1,12 @@
+C:\Users\antony.teng68\Desktop\Codewars_Practice\Alan Partridge II _Apple Turnover\Alan Partridge II _Apple Turnover\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\antony.teng68\Desktop\Codewars_Practice\Alan Partridge II _Apple Turnover\Alan Partridge II _Apple Turnover\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\antony.teng68\Desktop\Codewars_Practice\Alan Partridge II _Apple Turnover\Alan Partridge II _Apple Turnover\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\antony.teng68\Desktop\Codewars_Practice\Alan Partridge II _Apple Turnover\Alan Partridge II _Apple Turnover\bin\Debug\netcoreapp1.1\Alan Partridge II _Apple Turnover.deps.json
+C:\Users\antony.teng68\Desktop\Codewars_Practice\Alan Partridge II _Apple Turnover\Alan Partridge II _Apple Turnover\bin\Debug\netcoreapp1.1\Alan Partridge II _Apple Turnover.runtimeconfig.json
+C:\Users\antony.teng68\Desktop\Codewars_Practice\Alan Partridge II _Apple Turnover\Alan Partridge II _Apple Turnover\bin\Debug\netcoreapp1.1\Alan Partridge II _Apple Turnover.runtimeconfig.dev.json
+C:\Users\antony.teng68\Desktop\Codewars_Practice\Alan Partridge II _Apple Turnover\Alan Partridge II _Apple Turnover\bin\Debug\netcoreapp1.1\Alan Partridge II _Apple Turnover.dll
+C:\Users\antony.teng68\Desktop\Codewars_Practice\Alan Partridge II _Apple Turnover\Alan Partridge II _Apple Turnover\bin\Debug\netcoreapp1.1\Alan Partridge II _Apple Turnover.pdb
+C:\Users\antony.teng68\Desktop\Codewars_Practice\Alan Partridge II _Apple Turnover\Alan Partridge II _Apple Turnover\obj\Debug\netcoreapp1.1\Alan Partridge II _Apple Turnover.csprojResolveAssemblyReference.cache
+C:\Users\antony.teng68\Desktop\Codewars_Practice\Alan Partridge II _Apple Turnover\Alan Partridge II _Apple Turnover\obj\Debug\netcoreapp1.1\Alan Partridge II _Apple Turnover.AssemblyInfo.cs
+C:\Users\antony.teng68\Desktop\Codewars_Practice\Alan Partridge II _Apple Turnover\Alan Partridge II _Apple Turnover\obj\Debug\netcoreapp1.1\Alan Partridge II _Apple Turnover.dll
+C:\Users\antony.teng68\Desktop\Codewars_Practice\Alan Partridge II _Apple Turnover\Alan Partridge II _Apple Turnover\obj\Debug\netcoreapp1.1\Alan Partridge II _Apple Turnover.pdb
