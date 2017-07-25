@@ -18,12 +18,38 @@ namespace Find_the_odd_int
     }
     public class Kata
     {
+        public static int find_it_1(int[] actual_input)
+        {
+            var getDistinctNumAndCount =
+                from p in actual_input
+                group p by p.ToString() into g
+                select new
+                {
+                    g.Key,
+                    DistinctNum = g.Count()
+                };
+            var getDistinctNum = from x in getDistinctNumAndCount
+                    where x.DistinctNum%2 == 1
+                    select new
+                    {
+                        x.Key
+                    };
+            string abc = "";
+            foreach (var a in getDistinctNum)
+            {
+                abc = a.Key;
+            }
+            int Num = Convert.ToInt32(abc);
+            return Num;
+        }
         public static int find_it(int[] actual_input)
         {
-            var getDistinctNum = actual_input.GroupBy(x => x);
-            var s = getDistinctNum.Where();
-            return 5;
+            var getDistinctNumAndCount = actual_input.GroupBy(x => x).Where(x=>x.Count()%2==1).Select(x=>x.Key).FirstOrDefault();
+            return getDistinctNumAndCount;
         }
-
+        public static int find_it_solution(int[] seq)
+        {
+            return seq.GroupBy(x => x).Single(g => g.Count() % 2 == 1).Key;
+        }
     }
 }
