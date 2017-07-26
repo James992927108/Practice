@@ -1,0 +1,15 @@
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\bin\Debug\netcoreapp1.1\Split Strings.deps.json
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\bin\Debug\netcoreapp1.1\Split Strings.runtimeconfig.json
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\bin\Debug\netcoreapp1.1\Split Strings.runtimeconfig.dev.json
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\bin\Debug\netcoreapp1.1\Split Strings.dll
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\bin\Debug\netcoreapp1.1\Split Strings.pdb
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\obj\Debug\netcoreapp1.1\Split Strings.csprojResolveAssemblyReference.cache
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\obj\Debug\netcoreapp1.1\Split Strings.AssemblyInfo.cs
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\obj\Debug\netcoreapp1.1\Split Strings.dll
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\obj\Debug\netcoreapp1.1\Split Strings.pdb
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.dll
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\bin\Debug\netcoreapp1.1\nunit.engine.netstandard.dll
+E:\GitHub\Codewars_Practice\Split Strings\Split Strings\bin\Debug\netcoreapp1.1\Mono.Cecil.dll
