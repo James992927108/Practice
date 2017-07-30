@@ -8,57 +8,29 @@ namespace _13_Build_Palindrome
     [TestClass]
     public class UnitTest1
     {
-        //[TestMethod]
+        [TestMethod]
         public void TestMethod1()
         {
             var kata = new Kata();
-            Assert.AreEqual("abcdcba", kata.BuildPalindrome("abcdc"));
+            Assert.AreEqual("abcdcba", kata.buildPalindrome("abcdc"));
         }
         [TestMethod]
         public void TestMethod2()
         {
             var kata = new Kata();
-            Assert.AreEqual("abababa", kata.BuildPalindrome("ababab"));
+            Assert.AreEqual("abababa", kata.buildPalindrome("ababab"));
         }
     }
 
     public class Kata
     {
-        public string BuildPalindrome(string str)
+        public string buildPalindrome(string st)
         {
-            string[] strArray = str.Select(o => o.ToString()).ToArray();
-            string[] output = createPalindrome(strArray,0,str.Count()-1);
-            str = String.Concat(output);
-            return str;
-        }
-
-        public string[] createPalindrome(string[] str,int start,int end)
-        {
-            int i = 0;
-            while (true)
-            {
-                if (start > end)
-                {
-                    break;
-                }
-                else if (str[start] == str[end])
-                {
-                    start++;
-                    end--;
-                }
-                else
-                {
-                    str = insertNode(str,start,str[end]);
-                    start++;
-                }
-
-            }
-            return str;
-        }
-
-        public string[] insertNode(string[] str, int idx, string val)
-        {
-            return str;
+            var i = 0;
+            while (!st.Substring(i).ToArray().SequenceEqual(st.Substring(i).Reverse().ToArray()) && i < st.Length)
+                i++;
+            st = st + new string(st.Substring(0, i).Reverse().ToArray());
+            return st;
         }
     }
 }
