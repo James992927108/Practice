@@ -32,7 +32,20 @@ namespace _17_Weight_for_weight
             Assert.AreEqual("1 2 200 4 4 6 6 7 7 18 27 72 81 9 91 425 31064 7920 964 67407", WeightSort.orderWeight("1 200 2 4 4 6 6 7 7 27 72 18 81 9 91 425 31064 7920 67407 964"));
         }
     }
+    //Solution
     public class WeightSort
+    {
+        public static string orderWeight(string s)
+        {
+            string a = string.Join(" ", 
+                    s.Split(' ').OrderBy(n => n.ToCharArray().Select(c => (int)char.GetNumericValue(c)).Sum())
+                .ThenBy(n => n)
+                );
+            return a;
+        }
+    }
+
+    public class WeightSort1
     {
         public static string orderWeight(string str)
         {
