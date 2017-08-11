@@ -57,7 +57,6 @@ namespace _17_Weight_for_weight
             }
             UseBubbleSortByWeight(CalculateWeight, strToArray);
             GetValue(strToArray, CalculateWeight);
-
             return string.Join(" ", strToArray);
         }
 
