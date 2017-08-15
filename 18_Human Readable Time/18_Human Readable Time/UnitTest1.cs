@@ -1,4 +1,5 @@
 using System;
+using System.Runtime.InteropServices.ComTypes;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace _18_Human_Readable_Time
@@ -33,8 +34,21 @@ namespace _18_Human_Readable_Time
         {
             Assert.AreEqual("99:59:59", TimeFormat.GetReadableTime(359999));
         }
+        [TestMethod]
+        public void TestMethod6()
+        {
+            Assert.AreEqual("0:0:59", TimeFormat.GetReadableTime(59));
+        }
     }
     public static class TimeFormat
+    {
+        public static string GetReadableTime(int seconds)
+        {
+            var time = string.Format("{0:d2}:{1:d2}:{2:d2}", seconds / 3600, seconds / 60 % 60, seconds % 60);
+            return time;
+        }
+    }
+    public static class TimeFormatA
     {
         public static string GetReadableTime(int seconds)
         {
@@ -46,6 +60,20 @@ namespace _18_Human_Readable_Time
             seconds %= 60;
             s = seconds / 1;
             var time = h.ToString() + ":" + m.ToString() + ":" + s.ToString();
+
+            //if (s < 10)
+            //{
+            //    time = h.ToString() + ":" + m.ToString() + ":" + "0" + s.ToString();
+            //}
+            //if (m < 10 && s < 10)
+            //{
+            //    time = h.ToString() + ":" + "0" + m.ToString() + ":" + "0" + s.ToString();
+            //}
+            //if (h < 10 &&  m < 10 && s <10)
+            //{
+            //    time = "0"+h.ToString() + ":" + "0" + m.ToString() + ":" + "0" + s.ToString();
+            //}
+
             if (h < 60 && m < 60 && s < 60)
             {
                 dt = Convert.ToDateTime(time);
@@ -53,5 +81,6 @@ namespace _18_Human_Readable_Time
             }
             return time;
         }
+        
     }
 }
