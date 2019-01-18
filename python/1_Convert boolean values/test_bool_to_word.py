@@ -6,7 +6,7 @@ import unittest
 
 import bool_to_word
 
-class Test_TestIncrementDecrement(unittest.TestCase):
+class Test_bool_to_word(unittest.TestCase):
     def test_true(self):
         self.assertEquals(bool_to_word.bool_to_word(True), 'Yes')
 
