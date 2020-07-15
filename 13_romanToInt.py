@@ -25,4 +25,4 @@ if __name__ == '__main__':
     # x = "LVIII"
     x = "MCMXCIV"
     y = romanToInt(x)
-    print y 
+    print(y)
