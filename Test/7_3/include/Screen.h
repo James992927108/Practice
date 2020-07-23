@@ -1,7 +1,8 @@
 #include <iostream>
-
+#include "Window_mgr.h"
 class Screen
 {
+    friend void Window_mgr::clear(ScreenIndex);
 
 public:
     using pos = std::string::size_type;
@@ -15,7 +16,7 @@ public:
     void some_member() const;
 
     char get() const;
-   
+
     char get(pos r, pos c) const;
 
     Screen &move(pos r, pos c);
@@ -30,8 +31,8 @@ private:
     pos cursor_ = 0;
 
     pos height_ = 0;
-    
+
     pos width_ = 0;
-    
+
     std::string contents_;
 };
