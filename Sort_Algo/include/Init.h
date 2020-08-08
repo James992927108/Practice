@@ -1,4 +1,5 @@
 #include <iostream>
+#pragma once
 
 class Init
 {
@@ -6,6 +7,7 @@ public:
     Init() = default;
     Init(int *arr, int size) : arr_(arr), size_(size)
     {
+        // std::cout << "Function:" << __FUNCTION__ << ", arr Size: " << sizeof(arr)/sizeof(arr[0]) << std::endl;
     }
     void PrintArray();
 

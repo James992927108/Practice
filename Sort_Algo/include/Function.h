@@ -1,3 +1,4 @@
+#pragma once
 
 inline void swap(int *a, int *b)
 {

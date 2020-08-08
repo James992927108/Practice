@@ -10,8 +10,9 @@ public:
     QuickSort() = default;
     QuickSort(int *arr, int size) : Init(arr, size)
     {
+        // std::cout << "Function:" << __FUNCTION__ << ", arr Size: " << sizeof(arr)/sizeof(arr[0]) << std::endl;
         front_ = 0;
-        end_ = size - 1;
+        end_ = get_size() - 1;
     }
 
     void Start();
@@ -28,6 +29,5 @@ private:
     std::experimental::optional<int> end_;
 
     int Partition(int *arr, int front, int end);
-        
     void Sort(int *arr, int front, int end);
 };

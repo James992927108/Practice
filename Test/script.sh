@@ -1,2 +1,2 @@
-g++ -o main 4.c -std=c++11
+g++ -o main 101_32.cpp -std=c++11
 ./main
