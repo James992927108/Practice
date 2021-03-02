@@ -1,2 +1,6 @@
-# Codewars_Practice
-Practice on codewars use C#
+
+Almost practice in C#
+
+#C#
+
+# codewars

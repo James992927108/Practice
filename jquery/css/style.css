@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    overflow: hidden;
+}
+/*插入導覽列*/
+.nav{
+    position: fixed;
+    top: 50%;
+    right: 0;
+}
+.nav ul li{
+    width: 10px;
+    height: 10px;
+    margin: 10px;
+    background-color: #fff;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.5) inset;
+    cursor: pointer;
+}
+.nav ul .active{
+    background-color: #43A55F;
+}
+
+/*每頁顯示的圖片*/
+.p01{
+    background-image: url(http://www.pjchender.com/pjchender_blog/MaCloud_jQuery/images/p01.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.p02{
+    background-image: url(http://www.pjchender.com/pjchender_blog/MaCloud_jQuery/images/p02.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.p03{
+    background-image: url(http://www.pjchender.com/pjchender_blog/MaCloud_jQuery/images/p03.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.p04{
+    background-image: url(http://www.pjchender.com/pjchender_blog/MaCloud_jQuery/images/p04.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.p05{
+    background-image: url(http://www.pjchender.com/pjchender_blog/MaCloud_jQuery/images/p05.jpg);
+    background-size: cover;
+    height: 100vh;
+}
