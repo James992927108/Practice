@@ -1,0 +1,10 @@
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\UnitTestClass\bin\Debug\UnitTestClass.dll
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\UnitTestClass\bin\Debug\UnitTestClass.pdb
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\UnitTestClass\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\UnitTestClass\obj\Debug\UnitTestClass.dll
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\UnitTestClass\obj\Debug\UnitTestClass.pdb
+C:\Users\James\Desktop\UnitTestClass\UnitTestClass\bin\Debug\UnitTestClass.dll
+C:\Users\James\Desktop\UnitTestClass\UnitTestClass\bin\Debug\UnitTestClass.pdb
+C:\Users\James\Desktop\UnitTestClass\UnitTestClass\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\UnitTestClass\UnitTestClass\obj\Debug\UnitTestClass.dll
+C:\Users\James\Desktop\UnitTestClass\UnitTestClass\obj\Debug\UnitTestClass.pdb

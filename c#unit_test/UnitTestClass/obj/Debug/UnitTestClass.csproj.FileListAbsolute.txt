@@ -1,0 +1,6 @@
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\UnitTestClass\bin\Debug\UnitTestClass.dll
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\UnitTestClass\bin\Debug\UnitTestClass.pdb
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\UnitTestClass\obj\Debug\UnitTestClass.csprojResolveAssemblyReference.cache
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\UnitTestClass\obj\Debug\UnitTestClass.csproj.CoreCompileInputs.cache
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\UnitTestClass\obj\Debug\UnitTestClass.dll
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\UnitTestClass\obj\Debug\UnitTestClass.pdb

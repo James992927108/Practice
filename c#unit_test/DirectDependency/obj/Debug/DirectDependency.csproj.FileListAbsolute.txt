@@ -1,0 +1,11 @@
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\DirectDependency\bin\Debug\DirectDependency.dll
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\DirectDependency\bin\Debug\DirectDependency.pdb
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\DirectDependency\obj\Debug\DirectDependency.csprojResolveAssemblyReference.cache
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\DirectDependency\obj\Debug\DirectDependency.csproj.CoreCompileInputs.cache
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\DirectDependency\obj\Debug\DirectDependency.dll
+c:\users\cash.wu93\documents\visual studio 2017\Projects\UnitTestClass\DirectDependency\obj\Debug\DirectDependency.pdb
+C:\Users\James\Desktop\UnitTestClass\DirectDependency\bin\Debug\DirectDependency.dll
+C:\Users\James\Desktop\UnitTestClass\DirectDependency\bin\Debug\DirectDependency.pdb
+C:\Users\James\Desktop\UnitTestClass\DirectDependency\obj\Debug\DirectDependency.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\UnitTestClass\DirectDependency\obj\Debug\DirectDependency.dll
+C:\Users\James\Desktop\UnitTestClass\DirectDependency\obj\Debug\DirectDependency.pdb
