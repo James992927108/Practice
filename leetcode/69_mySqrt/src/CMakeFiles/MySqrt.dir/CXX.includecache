@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/A99141/Desktop/LeetCode_Practice-master/69_Sqrt/src/MySqrt.cpp
+MySqrt.h
+/mnt/c/Users/A99141/Desktop/LeetCode_Practice-master/69_Sqrt/src/MySqrt.h
+
+/mnt/c/Users/A99141/Desktop/LeetCode_Practice-master/69_Sqrt/src/MySqrt.h
+
