@@ -1,5 +1,12 @@
 {
     "files.associations": {
+        "*.mak": "makefile",
+        "*.sdl": "makefile",
+        "*.inc": "edk2_dsc",
+        "*.mof": "asl",
+        "*.aslc": "asl",
+        "*.xdl": "asl",
+        "*.build": "c",
         "string": "c",
         "iostream": "cpp",
         "ostream": "cpp",
@@ -60,7 +67,8 @@
         "utility": "cpp",
         "typeindex": "cpp",
         "typeinfo": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "string_view": "c"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
